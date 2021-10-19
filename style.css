@@ -1,0 +1,69 @@
+.bluecent
+{
+    text-align: center;
+    background-color: cornflowerblue;
+    font-family: cursive;
+    font-size: larger;   
+}
+
+.tancent
+{
+    text-align: center; 
+    background: tan;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.cyancent
+{
+    text-align: center; 
+    background-color: cyan;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.orcent
+{
+    text-align: center; 
+    background-color: rgb(243, 186, 81);
+    font-family: cursive;
+    font-size: larger;
+}
+
+.largebluecent
+{
+    text-align: center;
+    font-size: larger; 
+    background:cornflowerblue;
+    font-family: cursive;
+}
+
+.itcentblack
+{
+    text-align: center;
+    font-style: italic; 
+    background-color: black;
+    font-family: cursive;
+    font-size: larger;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(192, 136, 136);
+    background-color: transparent;
+    text-decoration: underline;
+  }
